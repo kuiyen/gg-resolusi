@@ -4,6 +4,7 @@ Rencana konten WPU
   *es6
   *framework javascript
     ^Vue
+    ^React
 -Struktur Data Dasar
 -php frameworks
     ^Laravel
