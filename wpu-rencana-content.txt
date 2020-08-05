@@ -5,7 +5,10 @@ Rencana konten WPU
   *framework javascript
    ^Angular
    ^React
+    ^Vue
+-Struktur Data Dasar
 -php frameworks
-  ^Laravel
+    ^Laravel
 -interview
 -vlogs
+-python
