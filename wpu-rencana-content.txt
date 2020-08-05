@@ -3,7 +3,11 @@ Rencana konten WPU
 -javascript
   *es6
   *framework javascript
+    ^Vue
+    ^React
 -Struktur Data Dasar
 -php frameworks
+    ^Laravel
 -interview
 -vlogs
+-python
